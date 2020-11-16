@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0006127556764985318,
+        "error": 0.0010329209046403718,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -8,10 +8,10 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "value": 0.15917305240968885
+        "value": 0.4911961607568832
     },
     "Ar37": {
-        "error": 0.004300715766056303,
+        "error": 0.004463857225965806,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -19,10 +19,10 @@
             "std_devs": 2
         },
         "fit": "Linear",
-        "value": 0.005505343119420808
+        "value": 0.0012367136275478086
     },
     "Ar38": {
-        "error": 0.009212771803843984,
+        "error": 0.009152296275161268,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -30,10 +30,10 @@
             "std_devs": 2
         },
         "fit": "Linear",
-        "value": -0.04035357266329817
+        "value": 0.021026735251585656
     },
     "Ar39": {
-        "error": 0.006383081572174753,
+        "error": 0.006550328602564578,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -41,10 +41,10 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "value": -0.006692514680588003
+        "value": -0.014138086388992615
     },
     "Ar40": {
-        "error": 0.017076399390964753,
+        "error": 0.021007169040012628,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -52,10 +52,10 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "value": 49.98114722111407
+        "value": 155.26804858193026
     },
     "PM41": {
-        "error": 0.010460826128059967,
+        "error": 0.01034259924549011,
         "error_type": null,
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -63,6 +63,6 @@
             "std_devs": 2
         },
         "fit": "linear",
-        "value": -0.09626009793448391
+        "value": -0.06083311697525023
     }
 }
