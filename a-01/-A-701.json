@@ -109,14 +109,14 @@
     "rlocation": "",
     "sample": "air",
     "source": {
-        "emission": 698.274,
-        "trap": 198.818
+        "emission": 698.517,
+        "trap": 198.483
     },
     "spec_sha": "5a347bd65240c86ad7c025ab8f80265e3dbe6924",
-    "timestamp": "2020-11-16T12:44:11.997194",
+    "timestamp": "2020-11-16T13:05:13.492595",
     "tripped_conditional": null,
     "unit": null,
     "username": "root",
-    "uuid": "2eadf4f4-56b9-46cb-bf8f-fd0a5cecd0c7",
+    "uuid": "fa4b91dd-efdb-4ae9-80ba-944b450b8458",
     "whiff_result": null
 }
