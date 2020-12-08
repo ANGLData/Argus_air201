@@ -1,0 +1,110 @@
+{
+    "Ar40": {
+        "error": 0.02123431967358392,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-AC-A-1062"
+            }
+        ],
+        "value": 2.768393098317017
+    },
+    "Ar40AX": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-AC-A-1062"
+            }
+        ],
+        "value": 0.0
+    },
+    "Ar40H1": {
+        "error": 0.02123431967358392,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-AC-A-1062"
+            }
+        ],
+        "value": 2.768393098317017
+    },
+    "Ar40H2": {
+        "error": 0.021989079564014406,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-AC-A-1062"
+            }
+        ],
+        "value": 2.6728038382947092
+    },
+    "Ar40L1": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-AC-A-1062"
+            }
+        ],
+        "value": 0.0
+    },
+    "Ar41": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-AC-A-1062"
+            }
+        ],
+        "value": 0.07351181295713947
+    },
+    "Iso42.9624": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-AC-A-1062"
+            }
+        ],
+        "value": 0.0
+    },
+    "Iso43.9624": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-AC-A-1062"
+            }
+        ],
+        "value": 0.0
+    },
+    "PM42": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-AC-A-1062"
+            }
+        ],
+        "value": 0.0
+    }
+}
